@@ -40,5 +40,4 @@ class GreetingResourceTest {
             .getConfigValue(prop)
             .rawValue
     }
-
 }
